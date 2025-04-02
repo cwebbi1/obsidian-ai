@@ -1,0 +1,11 @@
+{
+	"id": "ai-rewriter",
+	"name": "AI Rewriter",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Select text and rewrite it using Google Gemini based on your instructions.",
+	"author": "Your Name",
+	"authorUrl": "https://your-website.com",
+	"fundingUrl": "https://your-funding-link.com",
+	"isDesktopOnly": false
+}
